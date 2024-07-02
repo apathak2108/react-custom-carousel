@@ -9,7 +9,7 @@ export const StyledImage = styled.img`
   height: 580px;
   width: 100%;
   margin-top: 12px;
-//   display: none;
+  display: none;
 `;
 
 export const StyledIcon = styled.img`
